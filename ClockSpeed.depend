@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1536704022 source:c:\users\archangel\documents\visual studio 2008\projects\clockspeed\clockspeed\clockspeed.cpp
+	<iostream>
+	"date1.h"
+	<time.h>
+
+1536704431 c:\users\archangel\documents\visual studio 2008\projects\clockspeed\clockspeed\date1.h
+	<time.h>
+
+1536703837 source:c:\users\archangel\documents\visual studio 2008\projects\clockspeed\clockspeed\date1.cpp
+	<iostream>
+	"date1.h"
+	<time.h>
+
+1446671344 source:c:\users\archangel\documents\visual studio 2008\projects\clockspeed\clockspeed\main.cpp
+	<iostream>
+
